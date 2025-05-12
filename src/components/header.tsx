@@ -5,7 +5,7 @@ export const Header = () => {
 
   return (
     <header className="fixed z-50 w-full bg-white shadow-md">
-      <div className="container mx-auto flex items-center justify-between px-4 py-4">
+      <div className="container mx-auto flex items-center justify-between px-10 py-4">
         <div className="flex items-center">
           <span className="text-2xl font-bold text-indigo-600">DevElite</span>
         </div>

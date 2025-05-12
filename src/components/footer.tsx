@@ -1,7 +1,7 @@
 export const Footer = () => {
   return (
     <footer className="bg-gray-800 py-12 text-white">
-      <div className="container mx-auto px-4">
+      <div className="container mx-auto px-10">
         <div className="grid grid-cols-1 gap-8 pl-10 md:grid-cols-4">
           <div>
             <h3 className="mb-4 text-xl font-semibold">DevElite</h3>
